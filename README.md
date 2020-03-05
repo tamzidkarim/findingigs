@@ -1,5 +1,5 @@
 # CODEGIG
-Alt-H2 A simple app for finding coding gigs
+## A simple app for finding coding gigs
 
 * NodeJs
 * ExpressJs
